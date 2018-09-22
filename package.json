@@ -1,0 +1,14 @@
+{
+  "name": "ginmap-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:macinjoke/ginmap.git",
+  "author": "macinjoke",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
